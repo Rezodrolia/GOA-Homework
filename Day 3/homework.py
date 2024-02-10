@@ -1,0 +1,5 @@
+print("Nika Zaridze")
+print("Luka Zaridze")
+print("Zura Zaridze")
+print("Irine Malidze")
+print("Sandro Zaridze")
